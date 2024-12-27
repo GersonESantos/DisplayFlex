@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: azure;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    height: 100vh;
+}
+.item{
+    background-color: rgba(252, 254, 254, 0.989);
+    padding: 10px;
+    margin: 10px;
+    color: rgb(221, 20, 20);
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    width: 120px;
+    height: 20px;
+}
